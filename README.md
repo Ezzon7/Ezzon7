@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de la carrera de Ciencias de la Computación. Tengo la ambición de dar la mejor versión de mí en el día a día, tanto en el aspecto académico o laboral como en el aspecto personal. Aspiro a superarme en cada aspecto de mi vida para desarrollar mis habilidades.
+Bachiller de la carrera de Ciencias de la Computación. Tengo la ambición de dar la mejor versión de mí en el día a día, tanto en el aspecto académico o laboral como en el aspecto personal. Aspiro a superarme en cada aspecto de mi vida para desarrollar mis habilidades.
 
 
 ## 🌐 Socials:
