@@ -83,25 +83,26 @@ Incluye:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ezzon7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Ezzon7&theme=tokyonight&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezzon7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Ezzon7&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ezzon7&theme=tokyonight&hide_border=false&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzon7&theme=tokyonight&layout=compact" height="165"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ezzon7&theme=discord&no-bg=true&margin-w=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ezzon7&theme=discord&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ezzon7&color=blue&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Ezzon7&style=flat-square"/>
 </p>
 
 <p align="center">
