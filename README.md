@@ -80,26 +80,6 @@ Incluye:
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ezzon7&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=Ezzon7&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzon7&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ezzon7&theme=discord&row=1&column=6)
-
----
-
-![Views](https://komarev.com/ghpvc/?username=Ezzon7&style=flat-square)
-
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ezzon7&style=flat-square"/>
 </p>
